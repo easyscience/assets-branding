@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 190 80" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Baloo 2">@import url(https://fonts.googleapis.com/css2?family=Baloo+2%3Aital%2Cwght%400%2C400..800&amp;display=swap);</style>
+    <bx:grid x="0" y="0" width="190" height="80"/>
+    <radialGradient id="gradient-2" gradientUnits="userSpaceOnUse" cx="152.286" cy="126.898" r="330" gradientTransform="matrix(0.638467, -1.091841, 1.097297, 0.641658, 52.727183, 218.434182)">
+      <stop offset="0" style="stop-color: rgb(0, 170, 237);"/>
+      <stop offset="1" style="stop-color: rgb(0, 145, 202);"/>
+    </radialGradient>
+    <linearGradient id="gradient-3" gradientUnits="userSpaceOnUse" x1="330" y1="0" x2="330" y2="660" gradientTransform="matrix(0.980745, -0.195296, 0.195753, 0.983035, -58.663244, 70.697931)">
+      <stop offset="0" style="stop-color: rgb(152, 226, 255);"/>
+      <stop offset="1" style="stop-color: rgb(78, 193, 239);"/>
+    </linearGradient>
+  </defs>
+  <g transform="matrix(0.341978, 0, 0, 0.341978, 9.524829, 7.722592)">
+    <g transform="matrix(0.273894, -0.073389, 0.073389, 0.273894, -233.282547, -235.615341)" style="transform-origin: 330px 330px;">
+      <title>Logomark</title>
+      <circle style="fill: url(&quot;#gradient-2&quot;); stroke: url(&quot;#gradient-3&quot;); stroke-width: 10.3125px;" cx="330" cy="330" r="330">
+        <title>Main circle</title>
+      </circle>
+      <g transform="matrix(1, 0, 0, 1, 76.346565, 87.309868)">
+        <title>Inner elements</title>
+        <path style="fill: rgb(212, 243, 255); transform-box: fill-box; transform-origin: 50% 50%;" d="M 267.555 167.484 L 235.659 194.307 L 136.257 86.799 C 136.257 86.799 123.387 85.882 117.55 83.417 C 111.703 80.952 106.309 77.054 102.05 72.352 C 92.687 62.018 81.188 36.083 81.188 36.083 L 107.784 9.683 C 107.784 9.683 130.348 21.068 140.165 28.884 C 145.363 33.02 150.735 37.464 153.901 43.301 C 156.675 48.416 157.913 60.276 157.913 60.276 L 267.555 167.484 Z" transform="matrix(0.965926, 0.258817, -0.258817, 0.965926, 0.000005, -0.000012)"/>
+        <path style="fill: rgb(212, 243, 255); transform-box: fill-box; transform-origin: 50% 50%;" d="M 235.076 354.715 L 297.601 276.02 L 433.952 390.242 C 433.952 390.242 435.541 404.7 433.839 412.908 C 432.117 421.189 428.714 429.171 424.331 436.4 C 420.422 442.846 414.771 450.023 409.429 455.334 C 403.469 461.264 396.508 466.193 389.382 470.658 C 382.885 474.732 376.089 478.166 368.695 480.197 C 361.714 482.115 347.173 482.507 347.173 482.507 L 235.076 354.715 Z" transform="matrix(0.965926, 0.258817, -0.258817, 0.965926, -0.000002, -0.000009)"/>
+        <path d="M 85.952 372.023 C 98.038 359.937 117.621 359.937 129.707 372.023 C 141.794 384.11 141.794 403.693 129.707 415.779 C 117.621 427.855 98.038 427.855 85.952 415.779 C 73.876 403.693 73.876 384.11 85.952 372.023 Z M 320.334 26.957 L 272.257 71.868 L 270.267 186.131 C 270.267 186.131 62.852 350.017 54.23 362.814 C 49.157 370.343 46.403 379.603 45.568 388.647 C 44.856 396.392 45.867 407.333 48.878 414.501 C 52.281 422.606 63.336 435.94 63.336 435.94 C 63.336 435.94 76.495 447.253 84.363 451.161 C 92.758 455.338 102.792 455.823 112.166 455.627 C 120.158 455.462 126.676 454.08 135.482 450.048 C 149.786 443.499 327.594 224.668 327.594 224.668 L 381.59 216.872 L 427.924 205.776 L 447.796 186.502 L 459.119 69.754 L 426.439 34.692 L 393.717 136.6 L 324.974 99.99 L 370.05 26.153 L 320.334 26.957 Z" style="stroke-width: 30.9374px; fill: rgb(212, 243, 255); transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(0.965926, 0.258817, -0.258817, 0.965926, -0.000003, -0.000007)"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -3.848826, -4.564161)" style="">
+      <title>Text</title>
+      <text style="font-family: &quot;Baloo 2&quot;; font-size: 81.9px; font-weight: 300; line-height: 191.825px; white-space: pre;" x="216.363" y="77.257"><title>easy</title>easy</text>
+      <text style="font-family: &quot;Baloo 2&quot;; font-size: 81.9px; font-weight: 600; line-height: 191.825px; white-space: pre;" x="216.468" y="159.731">utilities</text>
+    </g>
+  </g>
+</svg>
