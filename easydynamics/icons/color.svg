@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com" height="256px" width="256px">
+  <defs>
+    <radialGradient id="gradient-1" gradientUnits="userSpaceOnUse" cx="152.286" cy="126.898" r="330" gradientTransform="matrix(0.638467, -1.091841, 1.097297, 0.641658, 52.656119, 215.401816)">
+      <stop offset="0" style="stop-color: rgb(0, 170, 237);"/>
+      <stop offset="1" style="stop-color: rgb(0, 145, 202);"/>
+    </radialGradient>
+    <linearGradient id="gradient-0" gradientUnits="userSpaceOnUse" x1="330" y1="0" x2="330" y2="660" gradientTransform="matrix(0.980745, -0.195296, 0.195753, 0.983035, -58.734308, 67.665557)">
+      <stop offset="0" style="stop-color: rgb(152, 226, 255);"/>
+      <stop offset="1" style="stop-color: rgb(78, 193, 239);"/>
+    </linearGradient>
+    <bx:grid x="0" y="0" width="190" height="80"/>
+  </defs>
+  <g transform="matrix(1.335858, 0, 0, 1.335858, -1.145083, 1.915756)">
+    <g transform="matrix(0.283554, 0, 0, 0.283554, -233.25322, -232.583527)" style="transform-origin: 329.929px 326.968px;">
+      <title>Logo</title>
+      <circle style="fill: url(&quot;#gradient-1&quot;); stroke: url(&quot;#gradient-0&quot;); paint-order: fill; stroke-width: 10.3125px;" cx="329.929" cy="326.968" r="330">
+        <title>Main circle</title>
+      </circle>
+      <g transform="matrix(10.312513, 0, 0, 10.312513, -109.237785, -85.532562)">
+        <g>
+          <path style="fill: rgb(255, 255, 255); stroke: rgb(152, 226, 255);" d="M 17.147 38.507 L 17.978 47.149 L 26.11 46.25 L 28.903 41.538 L 25.718 37.55 L 17.147 38.507 Z"/>
+          <path style="paint-order: fill; fill: rgb(255, 255, 255); stroke: rgb(152, 226, 255);" d="M 28.877 37.208 L 36.838 36.33 L 36.861 45.047 L 29.406 45.874 L 31.97 41.223 L 28.877 37.208 Z"/>
+        </g>
+        <g>
+          <path style="fill: rgb(179, 233, 255); stroke: rgb(78, 194, 239);" d="M 41.855 47.478 L 41.918 39.299 L 50.819 46.006 L 50.794 50.196 L 47.296 51.569 L 41.855 47.478 Z"/>
+          <path style="fill: rgb(179, 233, 255); stroke: rgb(78, 194, 239);" d="M 53.089 47.707 L 53.069 51.893 L 49.521 53.259 L 56.613 58.59 L 60.368 57.358 L 60.852 53.564 L 53.089 47.707 Z"/>
+        </g>
+        <g>
+          <path style="fill: rgb(212, 243, 255); stroke: rgb(99, 211, 255);" d="M 51.531 28.434 L 53.756 30.073 L 53.249 33.091 C 53.249 33.091 56.951 33.134 59.404 30.006 C 61.683 27.099 61.197 24.391 61.197 24.391 L 59.252 22.358 L 56.351 23.878 C 56.351 23.878 56.33 25.12 55.506 26.31 C 54.459 27.822 51.531 28.434 51.531 28.434 Z"/>
+          <path style="fill: rgb(212, 243, 255); stroke: rgb(99, 211, 255);" d="M 41.937 36.68 C 41.937 36.68 41.644 33.775 43.757 31.33 C 45.663 29.125 48.642 28.872 48.642 28.872 L 51.435 30.819 L 51.05 33.298 C 51.05 33.298 48.76 33.588 47.58 35.056 C 46.186 36.79 46.554 40.161 46.554 40.161 L 41.937 36.68 Z"/>
+        </g>
+        <rect x="38.369" y="25.152" width="2" height="30.102" style="fill: rgb(255, 255, 255);"/>
+      </g>
+    </g>
+  </g>
+</svg>
